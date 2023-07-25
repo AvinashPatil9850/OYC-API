@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V+2WBBubvdVdV87WJQs3UBxC/xqpXk2FBwSWixepPiiuy5y0MktYPBK7wM3aUTDrUbi3v0Tlg4mMe8UkX1paGA==",
+  "dgSpecHash": "oaVKDQngBhA9ih6+qp/0pot+iFcePDnhI+D3E5a/4PPqgeTVhUMQZqmGNLEDKM/nImCgRNatYYLfifmUv2e+vQ==",
   "success": true,
-  "projectFilePath": "F:\\Angular\\OC-API\\OYC-API\\OYC-API.csproj",
+  "projectFilePath": "C:\\Users\\Avi\\source\\repos\\OYC-API\\OYC-API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Avi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Avi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

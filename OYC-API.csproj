@@ -21,10 +21,10 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  <Content Include="Image\*">
+  <CopyToPublishDirectory>always</CopyToPublishDirectory>
+</Content>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Image\" />
-  </ItemGroup>
 
 </Project>
